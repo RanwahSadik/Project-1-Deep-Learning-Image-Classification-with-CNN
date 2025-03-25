@@ -52,3 +52,8 @@ Due to the large size of the ResNet50V2 model and presentation file, they are ho
 │-- 📜 `MobileNet.h5` - Trained MobileNet model  
 │-- 📂 `test_image/` - Sample images for testing  
 
+## Team members
+- Ranwah Sadik
+- Razan Alkhamisi
+- Wejdan Alharthi
+
